@@ -1,0 +1,3 @@
+controllers:
+  resource: "@ItkKobaBundle/Controller"
+  type: annotation
